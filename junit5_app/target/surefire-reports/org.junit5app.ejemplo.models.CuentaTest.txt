@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.junit5app.ejemplo.models.CuentaTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.449 s - in org.junit5app.ejemplo.models.CuentaTest
